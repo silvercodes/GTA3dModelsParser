@@ -123,7 +123,7 @@ void Reader::readGeometry(Buffer &model) {
 
 
 
-	// out.close();
+	out.close();
 }
 
 
